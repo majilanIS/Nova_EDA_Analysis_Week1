@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.DS_Store
+data/*.csv   # optional: if you don't want raw data in repo
+logs/
+
+
