@@ -6,5 +6,7 @@ __pycache__/
 .DS_Store
 data/*.csv   # optional: if you don't want raw data in repo
 logs/
+newsData/*.csv
 
+.vscode/
 
